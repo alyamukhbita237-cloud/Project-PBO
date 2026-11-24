@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+bin/
+out/
+
+# IDE
+.idea/
+
+# Mac
+.DS_Store
+
+# Database credentials
+config.properties
+.env
